@@ -1,6 +1,6 @@
 {
-	"author": "Reese Wilson",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Reese Wilson",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
